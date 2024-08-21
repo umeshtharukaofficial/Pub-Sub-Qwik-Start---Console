@@ -1,6 +1,6 @@
-# Pub/Sub: Qwik Start - Console || [GSP096](https://www.cloudskillsboost.google/focuses/3719?parent=catalog) ||
+# Pub/Sub: Qwik Start - Console 
 
-## Solution [here](https://youtu.be/84tXuAKLZLY)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -12,12 +12,6 @@ sudo chmod +x gsp096.sh
 ./gsp096.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### You have successfully completed the lab on Pub/Sub: Qwik Start - Console
